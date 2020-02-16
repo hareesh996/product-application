@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: INFO
+    com.hari.microservices: DEBUG
+
+server:  port: 7001
